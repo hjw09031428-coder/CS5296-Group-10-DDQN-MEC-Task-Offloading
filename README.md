@@ -4,6 +4,6 @@ DDQN-based task offloading simulation for MEC
 
 Open the notebook in Google Colab:
 
-https://colab.research.google.com/github/你的仓库路径
+https://github.com/hjw09031428-coder/CS5296-Group-10-DDQN-MEC-Task-Offloading
 
 Run all cells to reproduce results.
